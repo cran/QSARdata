@@ -1,0 +1,12 @@
+4f4bfa889520d41f3a3aa508ad4fa329 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+aba71a0856bbd1c89ed731ca30515363 *R/nothing.R
+4c20d18c1673aef38ff7f1b9a02d73f7 *data/AquaticTox.RData
+88217c2413f8ea1852613a4c7f866ca0 *data/MeltingPoint.RData
+0715830ac92486f30a73448190c39e2b *data/Mutagen.RData
+bce8509a3ec8d184ba4566f13a5243b4 *data/bbb2.RData
+a2ea7891388de223ad8769c14fa20a6a *data/datalist
+ea4260574d8ab6ea7ed45d9f36128ff2 *man/AquaticTox.Rd
+08c3f9dfc8414f3116e76da6cd3ffdff *man/MeltingPoint.Rd
+f5cb3488c1b796ce5eaf6fa7e0b341c4 *man/bbb2.Rd
+0380b85b48414677f4a957128617b955 *man/mutagen.Rd

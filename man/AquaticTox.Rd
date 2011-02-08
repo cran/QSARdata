@@ -36,7 +36,6 @@ For fingerprints, the 500 most variable bits were selected whenever possible.
 \item{AquaticTox_moe3D}{3 dimensional MOE descriptors}
 \item{AquaticTox_PipelinePilot_FP}{PipelinePilot fingerprints (\url{http://accelrys.com/products/pipeline-pilot/})}
 \item{AquaticTox_QuickProp}{QuickProp descriptors}
-\item{AquaticTox_Class}{a factor with levels "Crosses" and "DoesNot"}
 \item{AquaticTox_Outcome}{a data frame with columns for the molecule name and the outcome (for merging)}
   }
 }
