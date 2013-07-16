@@ -1,4 +1,6 @@
 AquaticTox: AquaticTox_Activity AquaticTox_AtomPair AquaticTox_Daylight_FP AquaticTox_Dragon AquaticTox_Lcalc AquaticTox_Outcome AquaticTox_PipelinePilot_FP AquaticTox_QuickProp AquaticTox_moe2D AquaticTox_moe2D_FP AquaticTox_moe3D
 MeltingPoint: MP_Data MP_Descriptors MP_Outcome
 Mutagen: Mutagen_Dragon Mutagen_Outcome
+PLD: PLD_AtomPair PLD_Dragon PLD_LCALC PLD_Outcome PLD_PipelinePilot_FP PLD_QuickProp PLD_VolSurfPlus
 bbb2: bbb2_AtomPair bbb2_Class bbb2_Daylight_FP bbb2_Dragon bbb2_Lcalc bbb2_Outcome bbb2_PipelinePilot_FP bbb2_QuickProp bbb2_moe2D bbb2_moe2D_FP bbb2_moe3D
+caco: caco_AtomPair caco_Dragon caco_Outcome caco_PipelinePilot_FP caco_QuickProp
